@@ -1,6 +1,7 @@
 # Terraform EKS Project
 
 This repository contains Terraform configurations for deploying a production-ready EKS cluster on AWS with supporting infrastructure.
+how 
 
 ## 🏗 Architecture
 
@@ -16,12 +17,9 @@ The project sets up the following AWS resources:
   - IAM roles and policies
   - Kubernetes add-ons
 
-- **Supporting Infrastructure**
-  - EC2 bastion host
-  - S3 bucket for Terraform state
-  - DynamoDB table for state locking
-  - CloudWatch logging with S3 archival
-  - Application Load Balancer
+## 🔄 Workflow
+
+![Infrastructure Workflow](images/workflow.png)
 
 ## 📂 Project Structure
 
