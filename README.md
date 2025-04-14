@@ -56,7 +56,7 @@ To start exploring the labs:
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-repo/prometheus_and_terraform_labs.git
+git clone https://github.com/Mark-hil/terrafrom-eks-with-module-approach.git
 cd prometheus_and_terraform_labs
 ```
 Pick a project:
